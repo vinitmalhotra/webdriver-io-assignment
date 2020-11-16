@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "89932f7c2ae574c1e3ad711ca4a32f94",
+    "name" : "Register on the website: Signup a new customer",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 29,
+      "unknown" : 0,
+      "total" : 29
+    }
+  } ]
+}

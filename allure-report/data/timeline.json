@@ -1,0 +1,425 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "Hook",
+      "uid" : "b4b45fefee3ea541",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515770552,
+        "stop" : 1605515770553,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "Given I'm on the Automation Practise landing page",
+      "uid" : "f31b1fc769b742ec",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515682939,
+        "stop" : 1605515690967,
+        "duration" : 8028
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I click \"Register\" button",
+      "uid" : "7a310d57b8493a99",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515715228,
+        "stop" : 1605515724241,
+        "duration" : 9013
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter the email address \"vinit0@gmail.com\"",
+      "uid" : "bb9b356089598aca",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515693983,
+        "stop" : 1605515700927,
+        "duration" : 6944
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I search a product \"Printed Chiffon Dress\"",
+      "uid" : "d6de7011b6c12bef",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515724725,
+        "stop" : 1605515725441,
+        "duration" : 716
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I navigate by clicking \"Proceed to checkout\" button",
+      "uid" : "7e9d75931328f974",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515760849,
+        "stop" : 1605515762843,
+        "duration" : 1994
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter last name \"Malhotra\"",
+      "uid" : "f4ccf8943c20ad34",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515708722,
+        "stop" : 1605515709334,
+        "duration" : 612
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter month \"3\"",
+      "uid" : "36313a983d040ab4",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515711038,
+        "stop" : 1605515711534,
+        "duration" : 496
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I click \"Search\" button",
+      "uid" : "c97286370ee5c2cf",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515725442,
+        "stop" : 1605515734495,
+        "duration" : 9053
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter city \"Melbourne\"",
+      "uid" : "55c9d581aaba2c44",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515712579,
+        "stop" : 1605515713148,
+        "duration" : 569
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I click the \"Add to cart\" button",
+      "uid" : "8c965099a2a8ff0e",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515741089,
+        "stop" : 1605515747700,
+        "duration" : 6611
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I select \"Mr\" title",
+      "uid" : "92d4d9bc9518b8ab",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515707500,
+        "stop" : 1605515708085,
+        "duration" : 585
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I move to \"In stock\" button",
+      "uid" : "ceac3eaa6ce4d58d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515734495,
+        "stop" : 1605515741089,
+        "duration" : 6594
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "Then I Validate \"Vinit Malhotra\" on the landing screen",
+      "uid" : "f068ee3fd50b6a45",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515724242,
+        "stop" : 1605515724725,
+        "duration" : 483
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I click \"Create an account\" button",
+      "uid" : "fbfbc41e7c8d90cb",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515700927,
+        "stop" : 1605515707500,
+        "duration" : 6573
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter year \"1987\"",
+      "uid" : "5cf635dcbb1236d7",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515711534,
+        "stop" : 1605515711987,
+        "duration" : 453
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "Then I Validate \"Printed Chiffon Dress\" on the payments page",
+      "uid" : "edcaf956877a9e56",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515770053,
+        "stop" : 1605515770552,
+        "duration" : 499
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter first name \"Vinit\"",
+      "uid" : "6442175744378314",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515708085,
+        "stop" : 1605515708722,
+        "duration" : 637
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter date \"4\"",
+      "uid" : "9b47f7dbedce6198",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515710567,
+        "stop" : 1605515711038,
+        "duration" : 471
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter postcode \"85006\"",
+      "uid" : "116ff3f247207e0e",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515713634,
+        "stop" : 1605515714159,
+        "duration" : 525
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I click the \"Proceed to checkout\" button",
+      "uid" : "cd3f621b0357bdeb",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515747700,
+        "stop" : 1605515758445,
+        "duration" : 10745
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter address \"55 collins street\"",
+      "uid" : "dfb509e4cb6ed22f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515711987,
+        "stop" : 1605515712579,
+        "duration" : 592
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter password \"Password1\"",
+      "uid" : "3aeb70d599136df1",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515709998,
+        "stop" : 1605515710567,
+        "duration" : 569
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I navigate by clicking \"Proceed to checkout\" button",
+      "uid" : "8a9bcc2458182072",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515767449,
+        "stop" : 1605515770053,
+        "duration" : 2604
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter state \"Arizona\"",
+      "uid" : "b19eb218ce888bad",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515713148,
+        "stop" : 1605515713634,
+        "duration" : 486
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I click \"Sign in\" link",
+      "uid" : "486e501851b0b473",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515690967,
+        "stop" : 1605515693983,
+        "duration" : 3016
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "5616609b6f40266",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515682937,
+        "stop" : 1605515682938,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter mobilephone \"0449100411\"",
+      "uid" : "c66d016c4157863b",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515714682,
+        "stop" : 1605515715228,
+        "duration" : 546
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I navigate by clicking \"Proceed to checkout\" button",
+      "uid" : "18b58aa60099227d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515758445,
+        "stop" : 1605515760849,
+        "duration" : 2404
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I agree TC",
+      "uid" : "9985a8df9b76c126",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515762843,
+        "stop" : 1605515767449,
+        "duration" : 4606
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter country \"United States\"",
+      "uid" : "f19e30ca64bdd3d2",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515714159,
+        "stop" : 1605515714682,
+        "duration" : 523
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    }, {
+      "name" : "When I enter emailid \"vinit0@gmail.com\"",
+      "uid" : "637263d066b54ee1",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515709334,
+        "stop" : 1605515709998,
+        "duration" : 664
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.111" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  } ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "8c965099a2a8ff0e",
+  "name" : "When I click the \"Add to cart\" button",
+  "fullName" : "Register on the website: Signup a new customer.When I click the \"Add to cart\" button",
+  "historyId" : "3f53c76040cd5bc6bed69e13f33b1f72",
+  "time" : {
+    "start" : 1605515741089,
+    "stop" : 1605515747700,
+    "duration" : 6611
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click the \"Add to cart\" button"
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c965099a2a8ff0e.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

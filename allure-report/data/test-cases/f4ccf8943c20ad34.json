@@ -1,0 +1,58 @@
+{
+  "uid" : "f4ccf8943c20ad34",
+  "name" : "When I enter last name \"Malhotra\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter last name \"Malhotra\"",
+  "historyId" : "a3ad6926179d8c33645e7a32ca08e004",
+  "time" : {
+    "start" : 1605515708722,
+    "stop" : 1605515709334,
+    "duration" : 612
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter last name \"Malhotra\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4ccf8943c20ad34.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "edcaf956877a9e56",
+  "name" : "Then I Validate \"Printed Chiffon Dress\" on the payments page",
+  "fullName" : "Register on the website: Signup a new customer.Then I Validate \"Printed Chiffon Dress\" on the payments page",
+  "historyId" : "56ee3871ad2060273a23f4b5990f0044",
+  "time" : {
+    "start" : 1605515770053,
+    "stop" : 1605515770552,
+    "duration" : 499
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I Validate \"Printed Chiffon Dress\" on the payments page"
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "edcaf956877a9e56.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

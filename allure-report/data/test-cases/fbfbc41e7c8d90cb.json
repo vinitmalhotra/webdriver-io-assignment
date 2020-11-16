@@ -1,0 +1,58 @@
+{
+  "uid" : "fbfbc41e7c8d90cb",
+  "name" : "When I click \"Create an account\" button",
+  "fullName" : "Register on the website: Signup a new customer.When I click \"Create an account\" button",
+  "historyId" : "a351c8e79a40de735cb1e6ddff97d791",
+  "time" : {
+    "start" : 1605515700927,
+    "stop" : 1605515707500,
+    "duration" : 6573
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click \"Create an account\" button"
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fbfbc41e7c8d90cb.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

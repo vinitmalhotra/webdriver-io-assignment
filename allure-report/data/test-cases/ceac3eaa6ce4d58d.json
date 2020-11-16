@@ -1,0 +1,58 @@
+{
+  "uid" : "ceac3eaa6ce4d58d",
+  "name" : "When I move to \"In stock\" button",
+  "fullName" : "Register on the website: Signup a new customer.When I move to \"In stock\" button",
+  "historyId" : "996d60646fd2256965c477cce878dc78",
+  "time" : {
+    "start" : 1605515734495,
+    "stop" : 1605515741089,
+    "duration" : 6594
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I move to \"In stock\" button"
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ceac3eaa6ce4d58d.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

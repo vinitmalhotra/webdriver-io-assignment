@@ -1,0 +1,291 @@
+[ {
+  "uid" : "f19e30ca64bdd3d2",
+  "name" : "When I enter country \"United States\"",
+  "time" : {
+    "start" : 1605515714159,
+    "stop" : 1605515714682,
+    "duration" : 523
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3aeb70d599136df1",
+  "name" : "When I enter password \"Password1\"",
+  "time" : {
+    "start" : 1605515709998,
+    "stop" : 1605515710567,
+    "duration" : 569
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6442175744378314",
+  "name" : "When I enter first name \"Vinit\"",
+  "time" : {
+    "start" : 1605515708085,
+    "stop" : 1605515708722,
+    "duration" : 637
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfb509e4cb6ed22f",
+  "name" : "When I enter address \"55 collins street\"",
+  "time" : {
+    "start" : 1605515711987,
+    "stop" : 1605515712579,
+    "duration" : 592
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c97286370ee5c2cf",
+  "name" : "When I click \"Search\" button",
+  "time" : {
+    "start" : 1605515725442,
+    "stop" : 1605515734495,
+    "duration" : 9053
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6de7011b6c12bef",
+  "name" : "When I search a product \"Printed Chiffon Dress\"",
+  "time" : {
+    "start" : 1605515724725,
+    "stop" : 1605515725441,
+    "duration" : 716
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c965099a2a8ff0e",
+  "name" : "When I click the \"Add to cart\" button",
+  "time" : {
+    "start" : 1605515741089,
+    "stop" : 1605515747700,
+    "duration" : 6611
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4b45fefee3ea541",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1605515770552,
+    "stop" : 1605515770553,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92d4d9bc9518b8ab",
+  "name" : "When I select \"Mr\" title",
+  "time" : {
+    "start" : 1605515707500,
+    "stop" : 1605515708085,
+    "duration" : 585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f068ee3fd50b6a45",
+  "name" : "Then I Validate \"Vinit Malhotra\" on the landing screen",
+  "time" : {
+    "start" : 1605515724242,
+    "stop" : 1605515724725,
+    "duration" : 483
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cf635dcbb1236d7",
+  "name" : "When I enter year \"1987\"",
+  "time" : {
+    "start" : 1605515711534,
+    "stop" : 1605515711987,
+    "duration" : 453
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ceac3eaa6ce4d58d",
+  "name" : "When I move to \"In stock\" button",
+  "time" : {
+    "start" : 1605515734495,
+    "stop" : 1605515741089,
+    "duration" : 6594
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b47f7dbedce6198",
+  "name" : "When I enter date \"4\"",
+  "time" : {
+    "start" : 1605515710567,
+    "stop" : 1605515711038,
+    "duration" : 471
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbfbc41e7c8d90cb",
+  "name" : "When I click \"Create an account\" button",
+  "time" : {
+    "start" : 1605515700927,
+    "stop" : 1605515707500,
+    "duration" : 6573
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edcaf956877a9e56",
+  "name" : "Then I Validate \"Printed Chiffon Dress\" on the payments page",
+  "time" : {
+    "start" : 1605515770053,
+    "stop" : 1605515770552,
+    "duration" : 499
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f31b1fc769b742ec",
+  "name" : "Given I'm on the Automation Practise landing page",
+  "time" : {
+    "start" : 1605515682939,
+    "stop" : 1605515690967,
+    "duration" : 8028
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36313a983d040ab4",
+  "name" : "When I enter month \"3\"",
+  "time" : {
+    "start" : 1605515711038,
+    "stop" : 1605515711534,
+    "duration" : 496
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55c9d581aaba2c44",
+  "name" : "When I enter city \"Melbourne\"",
+  "time" : {
+    "start" : 1605515712579,
+    "stop" : 1605515713148,
+    "duration" : 569
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9985a8df9b76c126",
+  "name" : "When I agree TC",
+  "time" : {
+    "start" : 1605515762843,
+    "stop" : 1605515767449,
+    "duration" : 4606
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4ccf8943c20ad34",
+  "name" : "When I enter last name \"Malhotra\"",
+  "time" : {
+    "start" : 1605515708722,
+    "stop" : 1605515709334,
+    "duration" : 612
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b19eb218ce888bad",
+  "name" : "When I enter state \"Arizona\"",
+  "time" : {
+    "start" : 1605515713148,
+    "stop" : 1605515713634,
+    "duration" : 486
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb9b356089598aca",
+  "name" : "When I enter the email address \"vinit0@gmail.com\"",
+  "time" : {
+    "start" : 1605515693983,
+    "stop" : 1605515700927,
+    "duration" : 6944
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c66d016c4157863b",
+  "name" : "When I enter mobilephone \"0449100411\"",
+  "time" : {
+    "start" : 1605515714682,
+    "stop" : 1605515715228,
+    "duration" : 546
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "486e501851b0b473",
+  "name" : "When I click \"Sign in\" link",
+  "time" : {
+    "start" : 1605515690967,
+    "stop" : 1605515693983,
+    "duration" : 3016
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "637263d066b54ee1",
+  "name" : "When I enter emailid \"vinit0@gmail.com\"",
+  "time" : {
+    "start" : 1605515709334,
+    "stop" : 1605515709998,
+    "duration" : 664
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd3f621b0357bdeb",
+  "name" : "When I click the \"Proceed to checkout\" button",
+  "time" : {
+    "start" : 1605515747700,
+    "stop" : 1605515758445,
+    "duration" : 10745
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a9bcc2458182072",
+  "name" : "When I navigate by clicking \"Proceed to checkout\" button",
+  "time" : {
+    "start" : 1605515767449,
+    "stop" : 1605515770053,
+    "duration" : 2604
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "116ff3f247207e0e",
+  "name" : "When I enter postcode \"85006\"",
+  "time" : {
+    "start" : 1605515713634,
+    "stop" : 1605515714159,
+    "duration" : 525
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a310d57b8493a99",
+  "name" : "When I click \"Register\" button",
+  "time" : {
+    "start" : 1605515715228,
+    "stop" : 1605515724241,
+    "duration" : 9013
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

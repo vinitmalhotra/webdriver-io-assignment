@@ -1,0 +1,58 @@
+{
+  "uid" : "c66d016c4157863b",
+  "name" : "When I enter mobilephone \"0449100411\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter mobilephone \"0449100411\"",
+  "historyId" : "2399ee42bcf53da6b538a76f341c4af1",
+  "time" : {
+    "start" : 1605515714682,
+    "stop" : 1605515715228,
+    "duration" : 546
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter mobilephone \"0449100411\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c66d016c4157863b.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

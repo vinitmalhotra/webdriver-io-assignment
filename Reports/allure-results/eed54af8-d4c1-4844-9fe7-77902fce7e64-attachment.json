@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".account>span\"}\n  (Session info: chrome=86.0.4240.111)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x0134D383+3134339]\n\tOrdinal0 [0x0123A171+2007409]\n\tOrdinal0 [0x010DAEE8+569064]\n\tOrdinal0 [0x0106A72F+108335]\n\tOrdinal0 [0x01089DB0+236976]\n\tOrdinal0 [0x0107EC90+191632]\n\tOrdinal0 [0x01088773+231283]\n\tOrdinal0 [0x0107EB0B+191243]\n\tOrdinal0 [0x01062E77+77431]\n\tOrdinal0 [0x01063E3E+81470]\n\tOrdinal0 [0x01063DC9+81353]\n\tOrdinal0 [0x01250CD9+2100441]\n\tGetHandleVerifier [0x014BB75A+1396954]\n\tGetHandleVerifier [0x014BB3D9+1396057]\n\tGetHandleVerifier [0x014C7126+1444518]\n\tGetHandleVerifier [0x014BBCE8+1398376]\n\tOrdinal0 [0x01247F51+2064209]\n\tOrdinal0 [0x012522EB+2106091]\n\tOrdinal0 [0x01252411+2106385]\n\tOrdinal0 [0x012649C4+2181572]\n\tBaseThreadInitThunk [0x766D343D+18]\n\tRtlInitializeExceptionChain [0x77599802+99]\n\tRtlInitializeExceptionChain [0x775997D5+54]\n"
+}

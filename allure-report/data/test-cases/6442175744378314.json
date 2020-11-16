@@ -1,0 +1,58 @@
+{
+  "uid" : "6442175744378314",
+  "name" : "When I enter first name \"Vinit\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter first name \"Vinit\"",
+  "historyId" : "3c8a23dba86fe99cf6e9ae8430d8fe23",
+  "time" : {
+    "start" : 1605515708085,
+    "stop" : 1605515708722,
+    "duration" : 637
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter first name \"Vinit\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6442175744378314.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

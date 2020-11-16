@@ -1,0 +1,58 @@
+{
+  "uid" : "5cf635dcbb1236d7",
+  "name" : "When I enter year \"1987\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter year \"1987\"",
+  "historyId" : "a8c259852b9bde4710ba4f1275cfa61e",
+  "time" : {
+    "start" : 1605515711534,
+    "stop" : 1605515711987,
+    "duration" : 453
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter year \"1987\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5cf635dcbb1236d7.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}
